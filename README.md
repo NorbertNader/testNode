@@ -27,6 +27,13 @@ fireup dat POSTman and let's rock!
 
 get localhost:8080/api/users - user list
 
-post localhost:8080/api/authenticate - data {name: <users name>, password: <password>} - create a user token
+post localhost:8080/api/authenticate -data {name: <users name>, password: <password>} - create a user token
+
+---
+
+get yer token n fir it up in POSTman
+
+get localhost:8080/api -data {token: <yer amazin token>}
+
 
 
