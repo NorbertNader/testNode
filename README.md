@@ -12,3 +12,9 @@ admin:admin
 
 and run:
 $ nodemon server.js
+
+---
+
+go to localhost:8080/setup
+
+to create new user
